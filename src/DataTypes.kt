@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
     val number: Int = 10
     val longNumber: Long = 10000000L
     val doubleNumber: Double = 3.14

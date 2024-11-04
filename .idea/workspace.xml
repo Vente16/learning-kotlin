@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="655ef8f8-5ef4-417e-835c-91353b3f281c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/AnyDataType.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/AnyDataType.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Comments.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Comments.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DataTypes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/DataTypes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IfExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfExpression.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultilineStrings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultilineStrings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Prints.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Prints.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strings.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Strings.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TemplateString.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TemplateString.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TypeInference.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/TypeInference.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/WhenExpression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/WhenExpression.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +162,7 @@
       <updated>1728355851536</updated>
       <workItem from="1728355852553" duration="8157000" />
       <workItem from="1729619869039" duration="27459000" />
-      <workItem from="1730660337229" duration="7183000" />
+      <workItem from="1730660337229" duration="7726000" />
     </task>
     <servers />
   </component>

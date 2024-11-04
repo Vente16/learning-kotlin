@@ -7,7 +7,5 @@ fun main() {
    }
 
    val isNullable: Boolean? = null;
-
    println(myExpression)
-    
 }

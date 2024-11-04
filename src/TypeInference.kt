@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
     // TypeInference means that a variable doesn't need a type if it's value
     // is telling explicit datatype
     val number = 10
@@ -9,7 +9,7 @@ fun main(){
     val string = "Hello World"
     val char = 'J'
 
-    println("Number datatype: $number")
+    println("Integer datatype: $number")
     println("Long datatype: $longNumber")
     println("Double datatype: $doubleNumber")
     println("Float datatype: $floatNumber")

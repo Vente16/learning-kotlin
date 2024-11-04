@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
    /* We have two different types of prints*/
    // print: without a break line
    print("simple print -")

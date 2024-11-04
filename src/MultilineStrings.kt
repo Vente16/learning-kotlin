@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
   val message = """
       Hi there! 
       how are you?

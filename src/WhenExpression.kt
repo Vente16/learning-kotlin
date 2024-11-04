@@ -22,7 +22,6 @@ fun main() {
       else -> println("Unknown operation")
   }
 
-
   // When using ranges
   val age = 20
   when (age) {

@@ -13,5 +13,4 @@ fun main() {
   print(" ----- ")
   // We can use a single line if the block code only takes one line
   for (number in numbers) println(number)
-
 }

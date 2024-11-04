@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
    val name = "John"
    println("Hello $name!")
    println(name.uppercase())

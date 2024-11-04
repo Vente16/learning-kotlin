@@ -1,4 +1,4 @@
-fun main(){
+fun main() {
   // inline comments
   /*
     Multiple comments
