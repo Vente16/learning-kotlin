@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="655ef8f8-5ef4-417e-835c-91353b3f281c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/learning_kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Comments.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Prints.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Variables.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,9 +22,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2n8XoWQZw37gfO7AYnRiiIsfrdt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -47,10 +35,36 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Kotlin.ArithmeticOperatorsKt.executor": "Run",
+    "Kotlin.ArraysKt.executor": "Run",
+    "Kotlin.AtoBKt.executor": "Run",
+    "Kotlin.BooleanLogicalOpertatorsKt.executor": "Run",
+    "Kotlin.BooleansKt.executor": "Run",
+    "Kotlin.BreakContinueKt.executor": "Run",
     "Kotlin.CommentsKt.executor": "Run",
+    "Kotlin.CompartionOperatorsKt.executor": "Run",
+    "Kotlin.ForEachKt.executor": "Run",
+    "Kotlin.FunctionsAsArgumentsKt.executor": "Run",
+    "Kotlin.FunctionsKt.executor": "Run",
+    "Kotlin.IfExpressionKt.executor": "Run",
+    "Kotlin.IfStatementKt.executor": "Run",
+    "Kotlin.IncrementAndDecrementOperatorsKt.executor": "Run",
+    "Kotlin.ListDescruturingKt.executor": "Run",
+    "Kotlin.ListDestructuringKt.executor": "Run",
+    "Kotlin.ListKt.executor": "Run",
+    "Kotlin.LoopIndicesKt.executor": "Run",
+    "Kotlin.LoopsKt.executor": "Run",
+    "Kotlin.LoopsRangeKt.executor": "Run",
     "Kotlin.MainKt.executor": "Run",
+    "Kotlin.MathKt.executor": "Run",
+    "Kotlin.MultilineStringsKt.executor": "Run",
     "Kotlin.PrintsKt.executor": "Run",
+    "Kotlin.ReturnKeywordKt.executor": "Run",
+    "Kotlin.StringsKt.executor": "Run",
+    "Kotlin.TemplateStringKt.executor": "Run",
     "Kotlin.VariablesKt.executor": "Run",
+    "Kotlin.WhenExpressionKt.executor": "Run",
+    "Kotlin.WhileKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
@@ -63,9 +77,23 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="CommentsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="CommentsKt" />
+  <component name="RunManager" selected="Kotlin.ReturnKeywordKt">
+    <configuration name="BreakContinueKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BreakContinueKt" />
+      <module name="learning_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsAsArgumentsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsAsArgumentsKt" />
+      <module name="learning_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunctionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionsKt" />
       <module name="learning_kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,8 +108,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariablesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="VariablesKt" />
+    <configuration name="ReturnKeywordKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReturnKeywordKt" />
+      <module name="learning_kotlin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WhileKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WhileKt" />
       <module name="learning_kotlin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,8 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.CommentsKt" />
-        <item itemvalue="Kotlin.VariablesKt" />
+        <item itemvalue="Kotlin.ReturnKeywordKt" />
+        <item itemvalue="Kotlin.FunctionsAsArgumentsKt" />
+        <item itemvalue="Kotlin.FunctionsKt" />
+        <item itemvalue="Kotlin.BreakContinueKt" />
+        <item itemvalue="Kotlin.WhileKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +148,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728355851536</updated>
-      <workItem from="1728355852553" duration="2634000" />
+      <workItem from="1728355852553" duration="8157000" />
+      <workItem from="1729619869039" duration="27459000" />
+      <workItem from="1730660337229" duration="7183000" />
     </task>
     <servers />
   </component>
